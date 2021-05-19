@@ -8,3 +8,4 @@ Here is a growwing collection of resources and helpful commands to know when wor
 - [git init](./commands/init.md)
 
 
+- [git add](./commands/add.md)
