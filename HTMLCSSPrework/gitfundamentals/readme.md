@@ -12,3 +12,4 @@ Here is a growwing collection of resources and helpful commands to know when wor
 
 - [git remote](./commands/remote.md)
 - [git push](./commands/push.md)
+- [git pull](./commands/pull.md)
