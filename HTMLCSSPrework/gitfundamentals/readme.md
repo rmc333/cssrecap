@@ -13,3 +13,10 @@ Here is a growwing collection of resources and helpful commands to know when wor
 - [git remote](./commands/remote.md)
 - [git push](./commands/push.md)
 - [git pull](./commands/pull.md)
+- [git status](./commands/status.md)
+- [git clone](./commands/clone.md)
+## External Resources
+- [markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/)
+- [gitignore documentation](https://git-scm.com/docs/gitignore)
+- [git documentation](https://git-scm.com/docs)
+- [git branches](https://git-scm.com/book/en/v2/git-branching-branches-in-a-nutshell)
