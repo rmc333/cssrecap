@@ -9,3 +9,5 @@ Here is a growwing collection of resources and helpful commands to know when wor
 
 
 - [git add](./commands/add.md)
+
+- [git remote](./commands/remote.md)
