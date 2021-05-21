@@ -1,0 +1,15 @@
+/*1*/
+.margins-padding{border:2px solid blue;
+    margin-top: 50px; margin-right: 250px; margin-bottom: 200px; margin-left: 200px;
+    padding: 20px 20px 20px 40px; }
+    
+    #margin-demo {width: 400px;}
+    
+    #margin-experiment
+        {height: 40px;
+    background: blue ; border: 5px solid pink;
+    margin: 0px 0px 0px 0px}
+    
+#margin-experiment2 { height: 40px; background: blue; 
+    border:5px solid pink;
+    margin: 0px 0px 0px 0px}
